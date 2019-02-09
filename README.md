@@ -24,4 +24,4 @@ assert(output == [1,2,3,4])
 
 ## Details
 
-Contains an extension on Array that will flatten a nested array to a single level array with all items, also contains a helper function to use for integers. 
+Contains an extension on Array that will flatten a nested array to a single level array with all items of a given type within the nested arrays, also contains a helper function to use for specifically for arrays of integers. 
